@@ -1,0 +1,20 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int b,jaime;
+    int A;
+    cout<<"digite la base del triangulo"<<endl;
+    cin>>b;
+    cout<<"digite la altura del triangulo"<<endl;
+    cin>>jaime;
+    A=(b*jaime)/2;
+    cout<<"el area del triangulo es:"<<A<<endl;
+    
+    
+
+
+    return 0;
+}
